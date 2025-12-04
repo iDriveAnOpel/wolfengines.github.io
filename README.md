@@ -2,10 +2,9 @@
 <html>
 <body>
 
-<h1>Upcoming events</h>
-
-<p>Vilnius RobotGames #2</p>
-December 6th, 2025
+<h2>Upcoming events</h2>
+<h1>Vilnius RobotGames #2</h1>
+<p>December 6th, 2025</p>
 
 
 </body>
