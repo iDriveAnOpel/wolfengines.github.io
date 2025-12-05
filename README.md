@@ -7,9 +7,9 @@
 <p>December 6th, 2025</p>
 <br>
 <h2>Vilnius RobotGames #3</h2>
-<p>Sausio 17<p>
+<p>January 17th, 2025<p>
 <br>
 <h2>Vilnius RobotGames Finalas</h2>
-<p>Vasario 7</p>
+<p>February 7th, 2025</p>
 </body>
 </html>
