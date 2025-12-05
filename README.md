@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   WolfEngines 33371 info site
