@@ -7,7 +7,7 @@
 
 <h1>Upcoming events</h1>
 <h2 style="color:red;">Vilnius RobotGames #2</h2>
-<p style="color:red;">December 6th, 2025</p>
+<strong style="color:red;">December 6th, 2025</strong>
 <br>
 <h2>Vilnius RobotGames #3</h2>
 <p>January 17th, 2026</p>
@@ -30,7 +30,7 @@
 <p>Failsafe intake</p>
 <br>
 <h2>Luka (non-worker):</h2>
-<p>smoke weed every day</p>
+<p>exist every day</p>
 
 
 </body>
