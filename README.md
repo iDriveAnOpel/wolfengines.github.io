@@ -17,18 +17,17 @@
 <br>
 <h2> [FINAL] RobotGames Lithuania tournament</h2>
 <p>March 7th-8th, 2026</p>
-
 <h1>Tasks rn</h1>
 <h2>Motiejus:</h2>
-<p></p>
+<p>Code the robot</p>
 <br>
 <h2>Dominykas:</h2>
-<p></p>
+<p>Design servo folder for intake</p>
 <br>
 <h2>Justas:</h2>
-<p></p>
+<p>Failsafe intake</p>
 <br>
 <h2>Luka:</h2>
-<p></p>
+<p>sleep at home because of breaking up with bf</p>
 </body>
 </html>
