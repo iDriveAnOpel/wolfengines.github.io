@@ -6,7 +6,7 @@
 <body>
 
 <h1>Upcoming events</h1>
-<h2>Vilnius RobotGames #2</h2>
+<h2 style="color:red;">Vilnius RobotGames #2</h2>
 <p>December 6th, 2025</p>
 <br>
 <h2>Vilnius RobotGames #3</h2>
