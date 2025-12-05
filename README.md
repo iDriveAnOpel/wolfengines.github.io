@@ -20,16 +20,18 @@
 <br>
 <br>
 <h1>Tasks rn</h1>
-<h2>Motiejus:</h2>
+<h2>Motiejus (coder):</h2>
 <p>Code the robot</p>
 <br>
-<h2>Dominykas:</h2>
+<h2>Dominykas (ideas):</h2>
 <p>Design servo holder for intake</p>
 <br>
-<h2>Justas:</h2>
+<h2>Justas (3d modeller):</h2>
 <p>Failsafe intake</p>
 <br>
-<h2>Luka:</h2>
+<h2>Luka (non-worker):</h2>
 <p>sleep at home and eat ramen because of breaking up with bf</p>
+
+
 </body>
 </html>
