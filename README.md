@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  WolfEngines 33371 info site
+  <title>WolfEngines 33371 info site</title>
 </head>
 <body>
 
