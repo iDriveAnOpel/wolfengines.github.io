@@ -24,12 +24,12 @@
 <p>Code the robot</p>
 <br>
 <h2>Dominykas:</h2>
-<p>Design servo folder for intake</p>
+<p>Design servo holder for intake</p>
 <br>
 <h2>Justas:</h2>
 <p>Failsafe intake</p>
 <br>
 <h2>Luka:</h2>
-<p>sleep at home because of breaking up with bf</p>
+<p>sleep at home and eat ramen because of breaking up with bf</p>
 </body>
 </html>
