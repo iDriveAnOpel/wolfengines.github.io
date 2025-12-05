@@ -24,7 +24,7 @@
 <p>Code the robot</p>
 <br>
 <h2>Dominykas (ideas):</h2>
-<p>Design servo holder for intake</p>
+<p>Aiškinti mums kaip d***lams, kad rinksimės susitvarkyti pirmadienį</p>
 <br>
 <h2>Justas (3d modeller):</h2>
 <p>Failsafe intake</p>
