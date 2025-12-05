@@ -17,6 +17,8 @@
 <br>
 <h2> [FINAL] RobotGames Lithuania tournament</h2>
 <p>March 7th-8th, 2026</p>
+<br>
+<br>
 <h1>Tasks rn</h1>
 <h2>Motiejus:</h2>
 <p>Code the robot</p>
