@@ -10,7 +10,7 @@
 <p>December 6th, 2025</p>
 <br>
 <h2>Vilnius RobotGames #3</h2>
-<p>January 17th, 2026<p>
+<p>January 17th, 2026</p>
 <br>
 <h2>Vilnius RobotGames Finalas</h2>
 <p>February 7th, 2026</p>
