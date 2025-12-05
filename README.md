@@ -24,7 +24,7 @@
 <p>Code the robot</p>
 <br>
 <h2>Dominykas (ideas):</h2>
-<p>Aiškinti mums kaip d***lams, kad rinksimės susitvarkyti pirmadienį</p>
+<p>Varžybose valdyti robotą</p>
 <br>
 <h2>Justas (3d modeller):</h2>
 <p>Failsafe intake</p>
