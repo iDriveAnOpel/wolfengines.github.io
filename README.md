@@ -30,7 +30,7 @@
 <p>Failsafe intake</p>
 <br>
 <h2>Luka (non-worker):</h2>
-<p>sleep at home and eat ramen because of breaking up with bf</p>
+<p>smoke weed every day</p>
 
 
 </body>
