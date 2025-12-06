@@ -5,7 +5,9 @@
 </head>
 <body>
 
- <h2>Vilnius RobotGames #3</h2>
+<h1>Upcoming events</h1>
+<br>
+<h2>Vilnius RobotGames #3</h2>
 <p>January 17th, 2026</p>
 <br>
 <h2>Vilnius RobotGames Finalas</h2>
@@ -14,7 +16,6 @@
 <h2> [FINAL] RobotGames Lithuania tournament</h2>
 <p>March 7th-8th, 2026</p>
 <br>
-<h1>Upcoming events</h1>
 <h2 style="color:green;">Vilnius RobotGames #2</h2>
 <strong style="color:green;">December 6th, 2025</strong>
 <p>Done. Third place in TechIn league.</p>
