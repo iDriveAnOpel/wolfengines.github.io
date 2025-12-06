@@ -16,7 +16,7 @@
 <h2> [FINAL] RobotGames Lithuania tournament</h2>
 <p>March 7th-8th, 2026</p>
 <br>
-<h1 style="color:#7CFC00">Finished events of this season (Decode)</h1>
+<h1 style="color:#7CFC00;">Finished events of this season (Decode)</h1>
 <h2 style="color:green;">Vilnius RobotGames #2</h2>
 <strong style="color:green;">December 6th, 2025</strong>
 <p>Done. Third place in TechIn league.</p>
