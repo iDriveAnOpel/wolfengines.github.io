@@ -31,7 +31,7 @@
 <p>Varžybose valdyti robotą</p>
 <br>
 <h2>Justas (3d modeller):</h2>
-<p>Failsafe intake</p>
+<p>Depiliuoti (vaškuoti) Dominyko kojas</p>
 <br>
 <h2>Luka (non-worker):</h2>
 <p>exist every day</p>
