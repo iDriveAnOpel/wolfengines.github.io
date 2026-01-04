@@ -7,8 +7,8 @@
 
 <h1>Upcoming events</h1>
 <br>
-<h2>Vilnius RobotGames #3</h2>
-<p>January 17th, 2026</p>
+<h2 style="color:red;">Vilnius RobotGames #3</h2>
+<strong style="color:red;">January 17th, 2026</strong>
 <br>
 <h2>Vilnius RobotGames Finalas</h2>
 <p>February 7th, 2026</p>
